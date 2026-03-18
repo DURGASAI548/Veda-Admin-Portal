@@ -1,0 +1,9 @@
+.cardBody{
+    max-width: 800px !important;
+    width:100%;
+    min-height: 500px;
+}
+.cardBodyParent{
+    display: flex;
+    justify-content: center;
+}
