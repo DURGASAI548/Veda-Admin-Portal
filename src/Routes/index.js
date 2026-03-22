@@ -44,7 +44,7 @@ const Index = () => {
 const { layoutType } = useSelector(routepage);
 
   const Layout = getLayout(layoutType);
-
+// my layouts
   return (
     <Routes>
       <Route>
