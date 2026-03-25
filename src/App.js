@@ -27,10 +27,7 @@ fakeBackend();
 
 // init firebase backend
 // initFirebaseBackend(firebaseConfig)
-// testing  commit
-// dummy commit 
-// saturday commit
-// added more comments 
+
 function App() {
   return (
     <React.Fragment>
