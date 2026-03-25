@@ -9,7 +9,7 @@ import withRouter from "../../components/Common/withRouter";
 
 // Import Data
 import navdata from "./Navdata";
-
+//data imported
 const Navbar = (props) => {
   const navData = navdata().props.children;
 
