@@ -1,6 +1,6 @@
 import axios from "axios";
 import config from "../config";
-
+// updated with axios code
 // default
 axios.defaults.baseURL = config.API_URL;
 
@@ -78,5 +78,9 @@ const getLoggedinUser = () => {
     return JSON.parse(user);
   }
 };
+// updated with axios code
+// updated with axios code
+// updated with axios code
+// updated with axios code
 
 export { APIClient, setAuthorization, getLoggedinUser };
