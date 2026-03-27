@@ -78,9 +78,6 @@ const getLoggedinUser = () => {
     return JSON.parse(user);
   }
 };
-// updated with axios code
-// updated with axios code
-// updated with axios code
-// updated with axios code
+
 
 export { APIClient, setAuthorization, getLoggedinUser };
