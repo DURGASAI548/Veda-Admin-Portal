@@ -26,7 +26,7 @@ const firebaseConfig = {
 }
 
 // init firebase backend
-// initFirebaseBackend(firebaseConfig)
+initFirebaseBackend(firebaseConfig)
 
 function App() {
   return (
