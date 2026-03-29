@@ -31,7 +31,7 @@ const DashboardFinal = () => {
             {/* <OverViewChart1 /> */}
             {/* <SocialSource /> */}
           </Row>
-          {/* <Row>
+          <Row>
             <Col lg={12}>
               <Card>
                 <CardBody>
@@ -40,7 +40,7 @@ const DashboardFinal = () => {
                 </CardBody>
               </Card>
             </Col>
-          </Row> */}
+          </Row>
           <Row>
             <UsePanel_two />
           </Row>

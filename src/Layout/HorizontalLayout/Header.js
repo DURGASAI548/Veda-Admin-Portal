@@ -8,6 +8,7 @@ import LanguageDropdown from "../../components/Common/TopbarDropdown/LanguageDro
 import NotificationDropdown from "../../components/Common/TopbarDropdown/NotificationDropdown";
 
 //i18n
+// changed now
 import { withTranslation } from "react-i18next";
 
 //import images
@@ -53,6 +54,7 @@ const Header = (props) => {
       }
     }
   }
+  //changed now
 
   return (
     <React.Fragment>
