@@ -21,11 +21,3 @@ root.render(
 );
 reportWebVitals();
 // serviceWorker.unregister();
-//from.mobile
-//friday commit
-// dummy commit
-// commited 
-//again commited  djsbsjdieh didnd djd  ejd d 
-//updated
-//durga sai prasad
-//buddha hanumanth
